@@ -1,0 +1,3 @@
+@echo off
+CLS
+OUTPUT\OS1_USER.EXE 20 3
