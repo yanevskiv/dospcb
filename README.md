@@ -1,16 +1,16 @@
 # DOS PCB
-Multithreading library for MS-DOS inspired by POSIX threads. It was created for a school project but it's pretty interesting in its own right.
+Multithreading library for MS-DOS inspired by POSIX threads. It was created for a school project but it's pretty cool in its own right.
 
 # Compilation and Running
 It is necessary to have the full Boralnd C++ environment located in the bc31 directory. 
-The following error is an indication that this was not done properly
+The following error is an indication that this was not done properly.
 ```
 Illegal command: make
 ```
 
-To compile the program, simply drag `c.bat` into [DOSBox](https://www.dosbox.com/) (or mount to the directory, type 'c' and press enter)
+To compile the program, simply drag the `c.bat` file into [DOSBox](https://www.dosbox.com/).
 
-To run the program, drag `r.bat` into DOSBox (or simply type in 'r' and press enter)
+To run the program, drag the `r.bat` file into DOSBox or simply type in 'r' and press enter.
 
 # Example
 ```c
