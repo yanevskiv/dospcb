@@ -8,7 +8,7 @@ It is necessary to have the full Boralnd C++ environment located in the bc31 dir
 Illegal command: make
 ```
 
-To compile the program, simply drag `c.bat` into (DOSBox)[https://www.dosbox.com/]
+To compile the program, simply drag `c.bat` into [DOSBox](https://www.dosbox.com/)
 
 To run the program, drag `r.bat` into DOSBox (or simply type in 'r' and hit enter)
 
